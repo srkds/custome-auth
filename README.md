@@ -1,0 +1,8 @@
+- express
+- nodemon
+- mongoose
+- uuid
+- crypto
+- jwt (jsonwebtoken)
+- express-jwt
+- express-validator
